@@ -1,0 +1,10 @@
+Toyota	Aygo	34900	4	5	6	7	8	9	12	2	3	6	8	9
+Opel	Adam	43300	1	2	3	4	5	6	7	8	9	10	11	12
+Renault	Twingo	35900	5	6	5	6	5	6	7	7	5	5	6	7
+Volkswagen	Up	34400	0	0	12	12	15	15	10	12	10	10	0	0
+Fiat	500	41900	1	2	3	4	5	6	7	8	9	10	11	12
+Skoda	Citigo	36700	0	1	1	1	1	1	1	1	1	1	1	0
+Suzuki	Celerion	39900	0	0	0	0	0	0	0	0	0	0	0	1
+Skoda	Octavia	65000	13	1	14	1	10	10	10	11	11	13	15	0
+Fiat	Punto	38000	12	12	3	6	8		12	14	14	16	18	1
+Toyota	Auris	59000	7	6	5	5	7	7	6	5	6	5	6	5
