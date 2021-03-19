@@ -1,2 +1,2 @@
-add_executable(Doctest_tests_run ChartTest.cpp)
+add_executable(Doctest_tests_run CarChartTest.cpp)
 target_link_libraries(Doctest_tests_run Chart_lib)
