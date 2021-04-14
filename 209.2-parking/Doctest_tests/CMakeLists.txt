@@ -1,0 +1,2 @@
+add_executable(Doctest_tests_run CarParkTest.cpp)
+target_link_libraries(Doctest_tests_run CarPark_lib)
